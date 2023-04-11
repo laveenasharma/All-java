@@ -1,0 +1,19 @@
+
+          TASTY BITES RESTAURANT 
+	            MUMBAI
+-----------	BILL RECEIPT -----------------
+Bill no.101			Date:10th Apr,2023
+------------------------------------------
+Particulars			Qty	Rate	Amount
+------------------------------------------
+Veg Grill Sandwich	2	125	250
+Butter Masala Dosa	2	100	200
+Water Bottle 0.5ltr	1	10	10
+------------------------------------------
+				Subtotal :  710
+			Discount @ 10% :  71
+					GST:  115
+------------------------------------------
+			    Grand Total:	754
+
+	Thank you, Visit Again!!!

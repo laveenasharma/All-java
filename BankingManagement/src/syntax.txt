@@ -1,0 +1,8 @@
+OuterClass.StaticNestedClass nestedObject =
+     new OuterClass.StaticNestedClass();
+
+
+OuterClass.InnerClass innerObject = outerObject.new InnerClass();
+
+
+

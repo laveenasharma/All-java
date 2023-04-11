@@ -1,0 +1,7 @@
+Employee ID:101
+Employee Name     :Laveena
+Father's Name     :Arvind
+Employee Contact  :9834261
+Email Information :lav101@gmail.com
+Employee position :Manager
+Employee Salary   :2628618

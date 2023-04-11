@@ -1,0 +1,7 @@
+Employee ID:102
+Employee Name     :Lav eenz
+Father's Name     :Arvnd
+Employee Contact  :a,ls,al
+Email Information :lala
+Employee position :,al,sa
+Employee Salary   :6757560

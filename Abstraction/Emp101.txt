@@ -1,0 +1,5 @@
+Name: Laveena
+Employee ID: 101
+Employee Email: 
+Employee Contact: laaksnasak
+Employee Salary: 3039300.0
